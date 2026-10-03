@@ -8,7 +8,7 @@
          "uuid": "16f9b6f0-eb30-4561-81a7-44af868b1d3f",
          "tls": {
             "enabled": true,
-            "server_name": "raygan-tunnel.blueshining235.workers.dev",
+            "server_name": "blueshining.dpdns.org",
             "alpn": "http/1.1",
             "utls": {
                "enabled": true,
@@ -19,7 +19,7 @@
             "type": "ws",
             "path": "/",
             "headers": {
-               "Host": "raygan-tunnel.blueshining235.workers.dev"
+               "Host": "blueshining.dpdns.org"
             },
             "early_data_header_name": "Sec-WebSocket-Protocol"
          },
@@ -33,7 +33,7 @@
          "uuid": "16f9b6f0-eb30-4561-81a7-44af868b1d3f",
          "tls": {
             "enabled": true,
-            "server_name": "raygan-tunnel.blueshining235.workers.dev",
+            "server_name": "blueshining.dpdns.org",
             "alpn": "http/1.1",
             "utls": {
                "enabled": true,
@@ -44,7 +44,7 @@
             "type": "ws",
             "path": "/",
             "headers": {
-               "Host": "raygan-tunnel.blueshining235.workers.dev"
+               "Host": "blueshining.dpdns.org"
             },
             "early_data_header_name": "Sec-WebSocket-Protocol"
          },
@@ -58,7 +58,7 @@
          "uuid": "16f9b6f0-eb30-4561-81a7-44af868b1d3f",
          "tls": {
             "enabled": true,
-            "server_name": "raygan-tunnel.blueshining235.workers.dev",
+            "server_name": "blueshining.dpdns.org",
             "alpn": "http/1.1",
             "utls": {
                "enabled": true,
@@ -69,7 +69,7 @@
             "type": "ws",
             "path": "/",
             "headers": {
-               "Host": "raygan-tunnel.blueshining235.workers.dev"
+               "Host": "blueshining.dpdns.org"
             },
             "early_data_header_name": "Sec-WebSocket-Protocol"
          },
@@ -83,7 +83,7 @@
          "uuid": "16f9b6f0-eb30-4561-81a7-44af868b1d3f",
          "tls": {
             "enabled": true,
-            "server_name": "raygan-tunnel.blueshining235.workers.dev",
+            "server_name": "blueshining.dpdns.org",
             "alpn": "http/1.1",
             "utls": {
                "enabled": true,
@@ -94,7 +94,7 @@
             "type": "ws",
             "path": "/",
             "headers": {
-               "Host": "raygan-tunnel.blueshining235.workers.dev"
+               "Host": "blueshining.dpdns.org"
             },
             "early_data_header_name": "Sec-WebSocket-Protocol"
          },
@@ -108,7 +108,7 @@
          "uuid": "16f9b6f0-eb30-4561-81a7-44af868b1d3f",
          "tls": {
             "enabled": true,
-            "server_name": "raygan-tunnel.blueshining235.workers.dev",
+            "server_name": "blueshining.dpdns.org",
             "alpn": "http/1.1",
             "utls": {
                "enabled": true,
@@ -119,7 +119,7 @@
             "type": "ws",
             "path": "/",
             "headers": {
-               "Host": "raygan-tunnel.blueshining235.workers.dev"
+               "Host": "blueshining.dpdns.org"
             },
             "early_data_header_name": "Sec-WebSocket-Protocol"
          },
@@ -133,7 +133,7 @@
          "uuid": "16f9b6f0-eb30-4561-81a7-44af868b1d3f",
          "tls": {
             "enabled": true,
-            "server_name": "raygan-tunnel.blueshining235.workers.dev",
+            "server_name": "blueshining.dpdns.org",
             "alpn": "http/1.1",
             "utls": {
                "enabled": true,
@@ -144,7 +144,7 @@
             "type": "ws",
             "path": "/",
             "headers": {
-               "Host": "raygan-tunnel.blueshining235.workers.dev"
+               "Host": "blueshining.dpdns.org"
             },
             "early_data_header_name": "Sec-WebSocket-Protocol"
          },
@@ -158,7 +158,7 @@
          "uuid": "16f9b6f0-eb30-4561-81a7-44af868b1d3f",
          "tls": {
             "enabled": true,
-            "server_name": "raygan-tunnel.blueshining235.workers.dev",
+            "server_name": "blueshining.dpdns.org",
             "alpn": "http/1.1",
             "utls": {
                "enabled": true,
@@ -169,7 +169,7 @@
             "type": "ws",
             "path": "/",
             "headers": {
-               "Host": "raygan-tunnel.blueshining235.workers.dev"
+               "Host": "blueshining.dpdns.org"
             },
             "early_data_header_name": "Sec-WebSocket-Protocol"
          },
@@ -183,7 +183,7 @@
          "uuid": "16f9b6f0-eb30-4561-81a7-44af868b1d3f",
          "tls": {
             "enabled": true,
-            "server_name": "raygan-tunnel.blueshining235.workers.dev",
+            "server_name": "blueshining.dpdns.org",
             "alpn": "http/1.1",
             "utls": {
                "enabled": true,
@@ -194,7 +194,7 @@
             "type": "ws",
             "path": "/",
             "headers": {
-               "Host": "raygan-tunnel.blueshining235.workers.dev"
+               "Host": "blueshining.dpdns.org"
             },
             "early_data_header_name": "Sec-WebSocket-Protocol"
          },
@@ -208,7 +208,7 @@
          "uuid": "16f9b6f0-eb30-4561-81a7-44af868b1d3f",
          "tls": {
             "enabled": true,
-            "server_name": "raygan-tunnel.blueshining235.workers.dev",
+            "server_name": "blueshining.dpdns.org",
             "alpn": "http/1.1",
             "utls": {
                "enabled": true,
@@ -219,7 +219,7 @@
             "type": "ws",
             "path": "/",
             "headers": {
-               "Host": "raygan-tunnel.blueshining235.workers.dev"
+               "Host": "blueshining.dpdns.org"
             },
             "early_data_header_name": "Sec-WebSocket-Protocol"
          },
@@ -233,7 +233,7 @@
          "uuid": "16f9b6f0-eb30-4561-81a7-44af868b1d3f",
          "tls": {
             "enabled": true,
-            "server_name": "raygan-tunnel.blueshining235.workers.dev",
+            "server_name": "blueshining.dpdns.org",
             "alpn": "http/1.1",
             "utls": {
                "enabled": true,
@@ -244,7 +244,7 @@
             "type": "ws",
             "path": "/",
             "headers": {
-               "Host": "raygan-tunnel.blueshining235.workers.dev"
+               "Host": "blueshining.dpdns.org"
             },
             "early_data_header_name": "Sec-WebSocket-Protocol"
          },
@@ -258,7 +258,7 @@
          "uuid": "16f9b6f0-eb30-4561-81a7-44af868b1d3f",
          "tls": {
             "enabled": true,
-            "server_name": "raygan-tunnel.blueshining235.workers.dev",
+            "server_name": "blueshining.dpdns.org",
             "alpn": "http/1.1",
             "utls": {
                "enabled": true,
@@ -269,7 +269,7 @@
             "type": "ws",
             "path": "/",
             "headers": {
-               "Host": "raygan-tunnel.blueshining235.workers.dev"
+               "Host": "blueshining.dpdns.org"
             },
             "early_data_header_name": "Sec-WebSocket-Protocol"
          },
@@ -283,7 +283,7 @@
          "uuid": "16f9b6f0-eb30-4561-81a7-44af868b1d3f",
          "tls": {
             "enabled": true,
-            "server_name": "raygan-tunnel.blueshining235.workers.dev",
+            "server_name": "blueshining.dpdns.org",
             "alpn": "http/1.1",
             "utls": {
                "enabled": true,
@@ -294,7 +294,7 @@
             "type": "ws",
             "path": "/",
             "headers": {
-               "Host": "raygan-tunnel.blueshining235.workers.dev"
+               "Host": "blueshining.dpdns.org"
             },
             "early_data_header_name": "Sec-WebSocket-Protocol"
          },
@@ -308,7 +308,7 @@
          "uuid": "16f9b6f0-eb30-4561-81a7-44af868b1d3f",
          "tls": {
             "enabled": true,
-            "server_name": "raygan-tunnel.blueshining235.workers.dev",
+            "server_name": "blueshining.dpdns.org",
             "alpn": "http/1.1",
             "utls": {
                "enabled": true,
@@ -319,7 +319,7 @@
             "type": "ws",
             "path": "/",
             "headers": {
-               "Host": "raygan-tunnel.blueshining235.workers.dev"
+               "Host": "blueshining.dpdns.org"
             },
             "early_data_header_name": "Sec-WebSocket-Protocol"
          },
